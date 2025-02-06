@@ -25,6 +25,6 @@ setup(
     url="http://pypi.python.org/pypi/capfuzz/",
     long_description="Yet another https proxy to capture and fuzz web apis. Tailor made for fuzzing Mobile App APIs & web services with a scriptable interface. CapFuzz is built on top of[mitmproxy](https: // mitmproxy.org/)",
     install_requires=[
-        "mitmproxy==3.0.2",
+        "mitmproxy==11.1.2",
     ],
 )
